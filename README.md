@@ -1,6 +1,6 @@
 # Pilot Test 1 New
 
-A new Flutter project created with Flutter version 3.24.5.
+A new Flutter project was created with Flutter version 3.24.5.
 
 ## Getting Started
 
@@ -35,10 +35,14 @@ The project uses the following dependencies:
 ## Project Structure
 
 ├── android/ # Android specific files
+
 ├── ios/ # iOS specific files
+
 ├── lib/ # Main source code
 │ └── main.dart # Entry point
+
 ├── test/ # Test files
+
 ├── web/ # Web specific files
 └── pubspec.yaml # Project configuration
 
@@ -67,6 +71,5 @@ This project is licensed under the [LICENSE NAME] - see the LICENSE file for det
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/pilot_test1_new](https://github.com/yourusername/pilot_test1_new)
+Project Link: https://github.com/Srikanth2205/simple-word-game-with-flutter
