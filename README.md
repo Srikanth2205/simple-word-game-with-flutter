@@ -44,6 +44,7 @@ The project uses the following dependencies:
 ├── test/ # Test files
 
 ├── web/ # Web specific files
+
 └── pubspec.yaml # Project configuration
 
 
